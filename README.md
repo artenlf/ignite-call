@@ -37,6 +37,9 @@ Este projeto foi um dos requisitos para conclusão do sexto módulo na trilha Re
 - Typescript
 - Ignite-UI (Design-system we developed)
 - Prisma
+- MySQL
+- Docker
+- Google Calendar API
 - Stitches
 - Axios
 - Nookies
