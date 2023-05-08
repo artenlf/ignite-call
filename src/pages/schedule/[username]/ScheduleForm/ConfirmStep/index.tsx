@@ -78,7 +78,7 @@ export function ConfirmStep({
         <Text size="sm">Endereço de e-mail</Text>
         <TextInput
           type="email"
-          placeholder="johndoe@examplo.com"
+          placeholder="johndoe@exemplo.com"
           {...register('email')}
         />
         {errors.email && (
