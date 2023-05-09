@@ -15,8 +15,8 @@ Aplicação para agendamento de horários. Os usuários podem utilizar as datas 
 ## Objetivos
 Este projeto foi um dos requisitos para conclusão do sexto módulo na trilha React do Ignite Rocketseat. Os objetivos foram: construir uma aplicação completa (full-stack) utilizando o framework Next (React e TypeScript), o design system Ignite UI e Prisma para conectar ao banco de dados.  
 
-![home page of application](https://github.com/artenlf/github-blog/blob/main/public/screenshots/cover.png#vitrinedev)
-![calendar page ready for pick a date](https://github.com/artenlf/github-blog/blob/main/public/screenshots/01.png)
+![home page of application](https://github.com/artenlf/ignite-call/blob/main/public/screenshots/cover.png#vitrinedev)
+![calendar page ready for pick a date](https://github.com/artenlf/ignite-call/blob/main/public/screenshots/01.png)
 
 
 ## English
@@ -62,12 +62,12 @@ Deployed - v1.0
 
 ### Screenshots
 
-![first step of register: page (username and name)](https://github.com/artenlf/github-blog/blob/main/public/screenshots/02.png)
-![second step of register: connect to Google Calendar](https://github.com/artenlf/github-blog/blob/main/public/screenshots/03.png)
-![third step of register: selecting available weekdays and times](https://github.com/artenlf/github-blog/blob/main/public/screenshots/04.png)
-![final step of register: filling out bio info](https://github.com/artenlf/github-blog/blob/main/public/screenshots/05.png)
-![calendar page ready for pick a date](https://github.com/artenlf/github-blog/blob/main/public/screenshots/06.png)
-![after selecting a date and time, form to fill out info (name, email and comments) before scheduling the meeting](https://github.com/artenlf/github-blog/blob/main/public/screenshots/07.png)
+![first step of register: page (username and name)](https://github.com/artenlf/ignite-call/blob/main/public/screenshots/02.png)
+![second step of register: connect to Google Calendar](https://github.com/artenlf/ignite-call/blob/main/public/screenshots/03.png)
+![third step of register: selecting available weekdays and times](https://github.com/artenlf/ignite-call/blob/main/public/screenshots/04.png)
+![final step of register: filling out bio info](https://github.com/artenlf/ignite-call/blob/main/public/screenshots/05.png)
+![calendar page ready for pick a date](https://github.com/artenlf/ignite-call/blob/main/public/screenshots/06.png)
+![after selecting a date and time, form to fill out info (name, email and comments) before scheduling the meeting](https://github.com/artenlf/ignite-call/blob/main/public/screenshots/07.png)
 
 
 ### Features
